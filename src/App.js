@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import Readexcel from './excel/Readexcel';
+import Readexcel2 from './excel/Readexcel2';
 function App() {
   return (
     <div className="App">
-      <Readexcel/>
+      <Readexcel2/>
     </div>
   );
 }
